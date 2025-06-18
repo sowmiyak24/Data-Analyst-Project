@@ -1,2 +1,2 @@
 # Data-Analyst-Project
-Spotify_Analytics
+Zomato_Analytics
